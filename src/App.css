@@ -1,8 +1,6 @@
 #root {
   max-width: 1280px;
-  margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
 
 .logo {
@@ -51,7 +49,7 @@
   margin: 20px;
 }
 
-.main-cards2 {
+/* .main-cards2 {
   border: 1px solid tomato;
   padding: 10px 20px;
   border-radius: 10px;
@@ -63,3 +61,6 @@
   color: white;
   cursor: pointer;
 }
+.d-flex{
+  display: flex;
+} */
